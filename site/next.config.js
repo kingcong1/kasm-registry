@@ -6,7 +6,7 @@ const nextConfig = {
     description: 'Personal workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://kingcong1.github.io/kasm-registry/',
-    contactUrl: 'https://kasmweb.com/support',
+    contactUrl: 'https://github.com/kingcong1/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
