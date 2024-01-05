@@ -1,8 +1,8 @@
 {
   "friendly_name": "Fedora-Minimal",
-  "image_src": "fedora-minimal.png",
+  "image_src": "fedora.png",
   "description": "Minimal Fedora 38",
-  "name": "kasm-registry/Fedora-Minimal/fedora:1.0",
+  "name": "kasmweb/fedora:1.0",
   "cores": 0,
   "memory": 6400,
   "gpu_count": 0,
