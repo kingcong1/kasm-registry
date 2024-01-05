@@ -4,7 +4,7 @@
   "description": "Minimal Fedora 38",
   "name": "kasmweb/fedora:1.0",
   "cores": 0,
-  "memory": 6400,
+  "memory": 6405,
   "gpu_count": 0,
   "cpu_allocation_method": "Inherit",
   "docker_registry": "https://kingcong1.github.io/kasm-registry/",
